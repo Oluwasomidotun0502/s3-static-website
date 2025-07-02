@@ -21,5 +21,10 @@ This is my first hands-on cloud project, where I deployed my personal static web
 - Connect a custom domain with Route 53  
 - Add HTTPS security via CloudFront  
 - Automate future deployments using GitHub Actions
+- ## 📜 Courses Completed
+- [Cloud Computing 101 – LearnQuest (Coursera)](https://coursera.org/share/fbdec1eea5d63bf1c9f5a1545fb71816)  
+  *Completed: July 1 2025*  
+  This course provided a solid introduction to cloud computing fundamentals, including cloud service models (IaaS, PaaS, SaaS), deployment models, virtualization, scalability, elasticity, and an overview of AWS services. It marked the official start of my cloud learning journey.
+  
 🗓️ Project Completed: June 30, 2025  
 🔰 Part of my 6-month Cloud Engineer learning journey
